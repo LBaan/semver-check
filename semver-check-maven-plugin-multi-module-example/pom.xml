@@ -9,11 +9,12 @@
     <parent>
         <artifactId>semver-check</artifactId>
         <groupId>io.github.jagodevreede</groupId>
-        <version>0.4.1-SNAPSHOT</version>
+        <version>0.4.2-SNAPSHOT</version>
     </parent>
 
     <modules>
         <module>semver-check-maven-plugin-multi-module-example-core</module>
+        <module>semver-check-maven-plugin-multi-module-example-logic</module>
     </modules>
 
     <properties>
